@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Korisnik\source\repos\01-LAB-ConsoleApp\ConsoleApp\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Korisnik\source\repos\01-LAB-ConsoleApp\ConsoleApp\.editorconfig" />
+  </ItemGroup>
+
 </Project>
